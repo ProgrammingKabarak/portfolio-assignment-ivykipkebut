@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Smart Drop app icon">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="900" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#ECFDF5"/>
+    </linearGradient>
+    <linearGradient id="drop" x1="420" y1="156" x2="612" y2="782" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="502" y1="560" x2="750" y2="738" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#16A34A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="236" fill="url(#bg)"/>
+  <path d="M512 144C374 316 252 468 252 632c0 166 112 278 260 278s260-112 260-278c0-164-122-316-260-488z" fill="url(#drop)"/>
+  <path d="M508 738c103-233 272-292 386-248-27 140-144 272-386 248z" fill="url(#leaf)"/>
+  <path d="M518 730c63-100 149-162 272-203" fill="none" stroke="#FFFFFF" stroke-width="36" stroke-linecap="round"/>
+  <path d="M372 460a180 180 0 0 1 280 0" fill="none" stroke="#FFFFFF" stroke-width="44" stroke-linecap="round" opacity=".92"/>
+  <path d="M432 526a102 102 0 0 1 160 0" fill="none" stroke="#FFFFFF" stroke-width="36" stroke-linecap="round" opacity=".92"/>
+  <circle cx="512" cy="594" r="28" fill="#FFFFFF"/>
+  <path d="M664 204h126m-63-63v126" stroke="#FACC15" stroke-width="36" stroke-linecap="round"/>
+</svg>

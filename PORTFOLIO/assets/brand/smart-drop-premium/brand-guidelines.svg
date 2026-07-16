@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Smart Drop brand guidelines preview</title>
+  <desc id="desc">Preview board showing Smart Drop logo variants, color palette, typography, and brand message.</desc>
+  <rect width="1600" height="1100" fill="#F8FAFC"/>
+  <rect x="64" y="64" width="1472" height="972" rx="48" fill="#FFFFFF"/>
+  <text x="120" y="150" fill="#111827" font-family="Inter, SF Pro Display, Manrope, Arial, sans-serif" font-size="62" font-weight="820">Smart Drop</text>
+  <text x="120" y="196" fill="#64748B" font-family="Inter, SF Pro Text, Manrope, Arial, sans-serif" font-size="25" font-weight="650">Brand guidelines preview for intelligent solar irrigation monitoring</text>
+  <image href="smart-drop-primary.svg" x="116" y="238" width="740" height="214"/>
+  <rect x="930" y="244" width="456" height="228" rx="32" fill="#111827"/>
+  <image href="smart-drop-dark.svg" x="940" y="282" width="436" height="126"/>
+  <text x="120" y="540" fill="#111827" font-family="Inter, SF Pro Display, Manrope, Arial, sans-serif" font-size="34" font-weight="780">Logo System</text>
+  <rect x="120" y="580" width="300" height="260" rx="32" fill="#F8FAFC"/>
+  <image href="smart-drop-icon.svg" x="166" y="614" width="208" height="208"/>
+  <text x="196" y="884" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="760">Icon only</text>
+  <rect x="460" y="580" width="300" height="260" rx="32" fill="#F8FAFC"/>
+  <image href="smart-drop-stacked.svg" x="514" y="586" width="192" height="219"/>
+  <text x="548" y="884" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="760">Stacked</text>
+  <rect x="800" y="580" width="300" height="260" rx="32" fill="#F8FAFC"/>
+  <image href="smart-drop-app-icon.svg" x="860" y="626" width="180" height="180"/>
+  <text x="902" y="884" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="760">App icon</text>
+  <text x="1160" y="540" fill="#111827" font-family="Inter, SF Pro Display, Manrope, Arial, sans-serif" font-size="34" font-weight="780">Palette</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="22" font-weight="760" fill="#111827">
+    <rect x="1160" y="584" width="90" height="90" rx="22" fill="#22C55E"/><text x="1275" y="638">#22C55E</text>
+    <rect x="1160" y="700" width="90" height="90" rx="22" fill="#15803D"/><text x="1275" y="754">#15803D</text>
+    <rect x="1160" y="816" width="90" height="90" rx="22" fill="#0EA5E9"/><text x="1275" y="870">#0EA5E9</text>
+    <rect x="1160" y="932" width="90" height="90" rx="22" fill="#111827"/><text x="1275" y="986">#111827</text>
+  </g>
+  <text x="120" y="976" fill="#64748B" font-family="Inter, SF Pro Text, Manrope, Arial, sans-serif" font-size="25" font-weight="600">Smart Drop empowers farmers with intelligent irrigation through solar-powered IoT technology.</text>
+</svg>

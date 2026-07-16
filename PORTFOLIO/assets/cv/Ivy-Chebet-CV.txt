@@ -1,0 +1,16 @@
+Ivy Chebet
+Software Developer | IT Student | IoT & Full-Stack Developer
+
+Email: chebetivy1212@gmail.com
+GitHub: https://github.com/kobilo-1212cloud
+
+Profile
+IT student passionate about building software that solves real-world problems across web development, IoT, smart agriculture, fintech, AI, and modern user experiences.
+
+Featured Projects
+- Smart Drop: IoT-powered solar irrigation monitoring platform with a Flask dashboard.
+- Nexus: Personal analytics platform for productivity, finances, goals, learning, and habits.
+- TrustPay: Secure QR payment platform for digital transactions.
+
+Skills
+Python, JavaScript, HTML5, CSS3, Flask, REST APIs, Chart.js, SQLite, Git, GitHub, VS Code, Arduino IDE, ESP32, HC-SR04, Relay Modules, IoT Sensors.
