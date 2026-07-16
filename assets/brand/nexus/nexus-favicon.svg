@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nexus favicon">
+  <defs>
+    <linearGradient id="g" x1="12" y1="10" x2="52" y2="54" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#FFFFFF"/>
+  <path d="M16 48V16h9l25 32V16h10v32h-9L26 16v32H16z" fill="url(#g)"/>
+  <path d="M18 46c13-15 21-20 38-30" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="16" cy="48" r="4" fill="#6366F1"/>
+  <circle cx="32" cy="32" r="3.5" fill="#10B981"/>
+  <circle cx="60" cy="16" r="4" fill="#6366F1"/>
+</svg>

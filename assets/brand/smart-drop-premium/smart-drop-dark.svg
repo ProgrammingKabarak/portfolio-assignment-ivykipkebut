@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 380" role="img" aria-label="Smart Drop dark mode logo">
+  <defs>
+    <linearGradient id="dropGradient" x1="128" y1="48" x2="292" y2="328" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset=".56" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#86EFAC"/>
+    </linearGradient>
+  </defs>
+  <rect width="1320" height="380" fill="#111827"/>
+  <circle cx="190" cy="190" r="142" fill="#FFFFFF" opacity=".06"/>
+  <path d="M190 48C132 121 80 186 80 255c0 70 47 117 110 117s110-47 110-117c0-69-52-134-110-207z" fill="url(#dropGradient)"/>
+  <path d="M109 245c51-72 102-110 184-128" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M129 216c17-42 56-72 105-72 25 0 48 8 67 21" fill="none" stroke="#FACC15" stroke-width="17" stroke-linecap="round"/>
+  <path d="M128 247c56-8 110-2 163 30-42 50-103 78-180 70 1-39 7-72 17-100z" fill="#22C55E"/>
+  <path d="M131 346c35-48 78-80 140-105" fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <path d="M126 166a79 79 0 0 1 128 0M148 190a49 49 0 0 1 84 0" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="190" cy="212" r="9" fill="#FFFFFF"/>
+  <text x="398" y="178" fill="#FFFFFF" font-family="Inter, SF Pro Display, Manrope, Arial, sans-serif" font-size="92" font-weight="820">Smart</text>
+  <text x="690" y="178" fill="#86EFAC" font-family="Inter, SF Pro Display, Manrope, Arial, sans-serif" font-size="92" font-weight="820">Drop</text>
+  <text x="404" y="232" fill="#CBD5E1" font-family="Inter, SF Pro Text, Manrope, Arial, sans-serif" font-size="28" font-weight="650" letter-spacing="2">SOLAR-POWERED IOT IRRIGATION</text>
+  <path d="M404 265h304m34 0h80m34 0h182" stroke="#22C55E" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="728" cy="265" r="9" fill="#0EA5E9"/>
+  <circle cx="840" cy="265" r="9" fill="#0EA5E9"/>
+</svg>

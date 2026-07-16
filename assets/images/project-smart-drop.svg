@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 500" role="img" aria-label="Smart Drop dashboard preview">
+  <rect width="680" height="500" rx="34" fill="#ECFDF5"/>
+  <circle cx="570" cy="80" r="86" fill="#22C55E" opacity=".18"/>
+  <rect x="70" y="70" width="540" height="360" rx="28" fill="#FFFFFF"/>
+  <rect x="102" y="104" width="176" height="18" rx="9" fill="#111827"/>
+  <rect x="102" y="148" width="130" height="96" rx="18" fill="#22C55E" opacity=".16"/>
+  <rect x="262" y="148" width="130" height="96" rx="18" fill="#10B981" opacity=".14"/>
+  <rect x="422" y="148" width="130" height="96" rx="18" fill="#22C55E" opacity=".1"/>
+  <path d="M118 350c58-80 102-12 150-60 46-46 70-70 118-20 46 48 84-8 148-78" fill="none" stroke="#22C55E" stroke-width="14" stroke-linecap="round"/>
+  <path d="M118 378h438" stroke="#111827" stroke-width="10" stroke-linecap="round" opacity=".16"/>
+</svg>

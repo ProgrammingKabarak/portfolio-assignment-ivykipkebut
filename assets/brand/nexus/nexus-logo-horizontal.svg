@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nexus horizontal logo</title>
+  <desc id="desc">A premium geometric Nexus logo using connected nodes, an abstract N, and data analytics motion.</desc>
+  <defs>
+    <linearGradient id="nexusGradient" x1="82" y1="64" x2="250" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#111827" flood-opacity=".12"/>
+    </filter>
+  </defs>
+  <rect width="1120" height="320" fill="none"/>
+  <g filter="url(#shadow)">
+    <circle cx="160" cy="160" r="116" fill="#FFFFFF"/>
+    <path d="M96 224V96h34l94 128V96h40v128h-34L136 96v128H96z" fill="url(#nexusGradient)"/>
+    <path d="M112 218c62-72 98-92 150-120" fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" opacity=".82"/>
+    <circle cx="96" cy="224" r="17" fill="#6366F1"/>
+    <circle cx="160" cy="160" r="15" fill="#10B981"/>
+    <circle cx="264" cy="96" r="17" fill="#6366F1"/>
+    <path d="M111 224h49l104-128" fill="none" stroke="#111827" stroke-width="7" stroke-linecap="round" opacity=".13"/>
+  </g>
+  <text x="340" y="166" fill="#111827" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="92" font-weight="820" letter-spacing="0">Nexus</text>
+  <text x="346" y="218" fill="#64748B" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="27" font-weight="650" letter-spacing="2">PERSONAL ANALYTICS PLATFORM</text>
+  <path d="M346 248h236m32 0h72m32 0h122" stroke="#6366F1" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="598" cy="248" r="8" fill="#10B981"/>
+  <circle cx="702" cy="248" r="8" fill="#10B981"/>
+</svg>

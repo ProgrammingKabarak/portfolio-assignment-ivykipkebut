@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 380" role="img" aria-label="Smart Drop monochrome logo">
+  <rect width="1320" height="380" fill="none"/>
+  <path d="M190 48C132 121 80 186 80 255c0 70 47 117 110 117s110-47 110-117c0-69-52-134-110-207z" fill="#111827"/>
+  <path d="M109 245c51-72 102-110 184-128" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M128 247c56-8 110-2 163 30-42 50-103 78-180 70 1-39 7-72 17-100z" fill="#FFFFFF"/>
+  <path d="M131 346c35-48 78-80 140-105" fill="none" stroke="#111827" stroke-width="16" stroke-linecap="round"/>
+  <path d="M126 166a79 79 0 0 1 128 0M148 190a49 49 0 0 1 84 0" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="190" cy="212" r="9" fill="#FFFFFF"/>
+  <text x="398" y="178" fill="#111827" font-family="Inter, SF Pro Display, Manrope, Arial, sans-serif" font-size="92" font-weight="820">Smart Drop</text>
+  <text x="404" y="232" fill="#111827" font-family="Inter, SF Pro Text, Manrope, Arial, sans-serif" font-size="28" font-weight="650" letter-spacing="2">SOLAR-POWERED IOT IRRIGATION</text>
+  <path d="M404 265h634" stroke="#111827" stroke-width="9" stroke-linecap="round"/>
+</svg>
