@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Smart Drop full-color logo</title>
+  <desc id="desc">A minimalist logo for Smart Drop combining water, leaf, solar energy, IoT signal, and circuit details.</desc>
+  <defs>
+    <linearGradient id="drop" x1="148" y1="42" x2="232" y2="264" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="178" y1="178" x2="256" y2="244" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#16A34A"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#111827" flood-opacity=".12"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" fill="none"/>
+  <g filter="url(#softShadow)">
+    <circle cx="180" cy="180" r="126" fill="#FFFFFF"/>
+    <path d="M180 68c-44 55-82 101-82 153 0 54 36 91 82 91s82-37 82-91c0-52-38-98-82-153z" fill="url(#drop)"/>
+    <path d="M178 246c33-74 86-92 122-78-8 44-45 86-122 78z" fill="url(#leaf)"/>
+    <path d="M181 244c20-32 47-51 86-64" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <path d="M135 166a56 56 0 0 1 90 0" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" opacity=".9"/>
+    <path d="M154 187a31 31 0 0 1 52 0" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" opacity=".9"/>
+    <circle cx="180" cy="209" r="8" fill="#FFFFFF"/>
+    <path d="M228 92h42m-21-21v42" stroke="#FACC15" stroke-width="10" stroke-linecap="round"/>
+    <path d="M83 256h54m0 0v-30m0 30h36" fill="none" stroke="#16A34A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="83" cy="256" r="8" fill="#16A34A"/>
+    <circle cx="173" cy="256" r="8" fill="#16A34A"/>
+  </g>
+  <g>
+    <text x="364" y="178" fill="#111827" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="86" font-weight="800" letter-spacing="0">Smart</text>
+    <text x="632" y="178" fill="#16A34A" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="86" font-weight="800" letter-spacing="0">Drop</text>
+    <text x="368" y="230" fill="#64748B" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="28" font-weight="600" letter-spacing="2">SOLAR IRRIGATION MONITORING</text>
+    <path d="M368 260h408" stroke="#22C55E" stroke-width="8" stroke-linecap="round"/>
+    <path d="M800 260h48m0 0v-24m0 24h44" fill="none" stroke="#0EA5E9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="892" cy="260" r="8" fill="#0EA5E9"/>
+  </g>
+</svg>

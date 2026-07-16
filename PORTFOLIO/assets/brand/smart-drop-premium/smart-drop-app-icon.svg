@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Smart Drop app icon">
+  <defs>
+    <linearGradient id="bg" x1="96" y1="48" x2="928" y2="976" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#ECFDF5"/>
+    </linearGradient>
+    <linearGradient id="dropGradient" x1="352" y1="116" x2="672" y2="888" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset=".56" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#15803D"/>
+    </linearGradient>
+    <linearGradient id="sunGradient" x1="356" y1="270" x2="662" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="236" fill="url(#bg)"/>
+  <path d="M512 104C342 318 188 508 188 714c0 206 139 348 324 348s324-142 324-348c0-206-154-396-324-610z" fill="url(#dropGradient)"/>
+  <path d="M276 684c150-211 302-324 542-377" fill="none" stroke="#FFFFFF" stroke-width="54" stroke-linecap="round" opacity=".94"/>
+  <path d="M334 596c52-124 166-210 310-210 74 0 142 22 198 62" fill="none" stroke="url(#sunGradient)" stroke-width="50" stroke-linecap="round"/>
+  <path d="M334 688c166-25 324-4 480 88-124 148-302 232-528 208 1-114 19-210 48-296z" fill="#15803D"/>
+  <path d="M340 978c104-142 232-238 414-310" fill="none" stroke="#FFFFFF" stroke-width="48" stroke-linecap="round"/>
+  <path d="M320 438a232 232 0 0 1 384 0" fill="none" stroke="#FFFFFF" stroke-width="40" stroke-linecap="round"/>
+  <path d="M388 510a144 144 0 0 1 248 0" fill="none" stroke="#FFFFFF" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="512" cy="584" r="28" fill="#FFFFFF"/>
+  <path d="M760 194h132m-66-66v132" stroke="#FACC15" stroke-width="34" stroke-linecap="round"/>
+</svg>

@@ -14,4 +14,3 @@ A premium, Apple-inspired personal portfolio built with HTML5, CSS3, and vanilla
 ## Run
 
 Open `index.html` in a browser, or serve the folder with any static file server.
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/QeZzh9gE)

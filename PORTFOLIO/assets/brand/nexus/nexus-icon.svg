@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Nexus icon</title>
+  <desc id="desc">Standalone Nexus icon with an abstract N, connected nodes, and analytics graph energy.</desc>
+  <defs>
+    <linearGradient id="nexusGradient" x1="112" y1="96" x2="402" y2="416" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="#FFFFFF"/>
+  <path d="M128 372V140h66l190 232V140h72v232h-66L200 140v232h-72z" fill="url(#nexusGradient)"/>
+  <path d="M150 360c102-118 166-154 286-220" fill="none" stroke="#FFFFFF" stroke-width="30" stroke-linecap="round" opacity=".84"/>
+  <path d="M148 360h98l190-220" fill="none" stroke="#111827" stroke-width="12" stroke-linecap="round" opacity=".14"/>
+  <circle cx="128" cy="372" r="28" fill="#6366F1"/>
+  <circle cx="256" cy="256" r="24" fill="#10B981"/>
+  <circle cx="456" cy="140" r="28" fill="#6366F1"/>
+</svg>
